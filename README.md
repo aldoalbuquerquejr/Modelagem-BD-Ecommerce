@@ -1,1 +1,1 @@
-# Modelagem-BD-Ecommerce
+# Refinando um banco de dados em contexto E-Commerce!
