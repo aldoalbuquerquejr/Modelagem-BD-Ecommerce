@@ -1,1 +1,1 @@
-# Refinando um banco de dados em contexto E-Commerce!
+# Refinando um banco de dados SQL em contexto E-Commerce!
